@@ -2,9 +2,9 @@
 
 1. Install Docker
 
-   Follow the official Docker installation guide for your operating system: [[instruction|https://docs.docker.com/engine/installation/]]
+   Follow the official Docker installation guide for your operating system: [instruction](https://docs.docker.com/engine/installation/)
 
-2. Download the latest Golem package for your operating system from [[Dropbox|https://www.dropbox.com/s/5t6c3qwarddmymc/golem-win32-0.2.X.zip?dl=0]]
+2. Download the latest Golem package for your operating system from [Dropbox](https://www.dropbox.com/s/5t6c3qwarddmymc/golem-win32-0.2.X.zip?dl=0)
 
 3. Extract golem package.  
 
@@ -28,4 +28,4 @@
 
      `sudo ./golem.sh --gui`
 
-     _Optional: if you don't want to use `sudo` then create Docker group and add your user to this group. Follow the [[instruction|https://docs.docker.com/engine/installation/linux/ubuntulinux/]]._
+     _Optional: if you don't want to use `sudo` then create Docker group and add your user to this group. Follow the [instruction](https://docs.docker.com/engine/installation/linux/ubuntulinux/)._
