@@ -3,6 +3,8 @@
 1. Install Docker
 
    Follow the official Docker installation guide for your operating system: [instruction](https://docs.docker.com/engine/installation/)
+   
+   After the installation remember to check if it's working properly by checking version and runnig a container example (you can find out how to this in the installation instruction). 
 
 2. Download the latest Golem package for your operating system from [Dropbox](https://www.dropbox.com/s/5t6c3qwarddmymc/golem-win32-0.2.X.zip?dl=0)
 
