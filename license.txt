@@ -1,0 +1,14 @@
+CLOSED ALPHA TESTS
+The Alpha Brass Golem App is an early version and work-in-progress. The release is targeted to developers and enthusiasts as a proof of concept and as a mean for further tests and development of Golem network software. 
+This version of Golem software is not intended to be publicly available and will be distributed only to a limited group of testers interested in learning more about Golem and helping the Golem Team with further tests. 
+
+COPYRIGHT & DISCLAIMER
+Copyright of this software belongs to imapp. Please note that although it is our intention for this software to be released under GNU GPL v. 3.0, this version is not open software and is subject to copyright protection.
+imapp conveys no license or title under any patent or copyright to the product.
+imapp reserves the right to make changes in the software without notification. 
+
+IMAPP ALLOWS FREE USE OF THIS SOFTWARE IN ITS “AS IS” CONDITION. IMAPP DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+
+THIS IS AN ALPHA RELEASE, AND ACTIVE DEVELOPMENT IS ON-GOING. THE PLATFORM MIGHT BE UNSTABLE AND IS NOT FINAL AND SHOULD NOT BE USED IN PRODUCTION.
+
+ALPHA RELEASE OPERATES ON TESTNET/PRIVATE ETHEREUM CHAIN AND TOKENS USED FOR TRANSACTIONS AND GRANTED TO TESTERS HAVE NO VALUE. DO NOT SENT ANY TOKENS TO ANY ADDRESSES STATED IN THE APPLICATION.  
