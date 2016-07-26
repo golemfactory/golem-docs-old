@@ -1,6 +1,6 @@
 # How to start testing 
 
-Follow installation instructions from [[this site|https://github.com/imapp-pl/golem/wiki/Installation#running-from-package]]
+Follow installation instructions from [this site](https://github.com/imapp-pl/golem/wiki/Installation#running-from-package)
 
 For Alpha tests we really need users with open ports and public IP or forwarded ports. Golem instance uses by default two ports 40102 and 40103.
 If you don't have public IP then please follow the instruction from [Bitcoin enabling connections section](https://bitcoin.org/en/full-node#enabling-connections), but for those two ports instead of 8333, 18333.
@@ -66,4 +66,4 @@ Optionally you can save a task on your disk and load it later.
    - What would you add? 
 
 # How can you send us your comments? 
-Add a new issue to the repository or write a comment on Slack. Add an annotation "[ERR]", "[UX]" or "[FUNC]" (see description above). If you add information about error, please append as much information as possible, try to add screenshots and put your logs [[in the directory|https://drive.google.com/folderview?id=0B8jXV0W-_NcWVFM0RU9XWlI4Q2M&usp=drive_web#list]]. Check directory description, to see how you should name your files. Your log will be created in your golem directory and named `golem_machinename.log`, 'golem_client.log` and `golem_gui.log`. 
+Add a new issue to the repository or write a comment on Slack. Add an annotation "[ERR]", "[UX]" or "[FUNC]" (see description above). If you add information about error, please append as much information as possible, try to add screenshots and put your logs [in the directory](https://drive.google.com/folderview?id=0B8jXV0W-_NcWVFM0RU9XWlI4Q2M&usp=drive_web#list). Check directory description, to see how you should name your files. Your log will be created in your golem directory and named `golem_machinename.log`, 'golem_client.log` and `golem_gui.log`. 
