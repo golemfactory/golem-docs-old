@@ -10,7 +10,7 @@
 
 3. Download and extract Golem package.  
 
-4. In terminal, go to the package directory and run application. The runner script may do some additional work on the first run. This process should take up to few minutes.
+4. The runner script may do some additional work on the first run. This process should take up to few minutes.
 
    - **On Windows**
 
