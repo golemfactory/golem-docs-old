@@ -6,8 +6,9 @@ COPYRIGHT & DISCLAIMER
 Copyright of this software belongs to imapp. Please note that although it is our intention for this software to be released under GNU GPL v. 3.0, this version is not open software and is subject to copyright protection.
 imapp conveys no license or title under any patent or copyright to the product.
 imapp reserves the right to make changes in the software without notification. 
+Golem software collects data on your system, hardware and usage. Data is sent to the development team and is used to help in further development of the network. We do not collect any private data.
 
-IMAPP ALLOWS FREE USE OF THIS SOFTWARE IN ITS ìAS ISî CONDITION. IMAPP DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+IMAPP ALLOWS FREE USE OF THIS SOFTWARE IN ITS ‚ÄúAS IS‚Äù CONDITION. IMAPP DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
 
 THIS IS AN ALPHA RELEASE, AND ACTIVE DEVELOPMENT IS ON-GOING. THE PLATFORM MIGHT BE UNSTABLE AND IS NOT FINAL AND SHOULD NOT BE USED IN PRODUCTION.
 
