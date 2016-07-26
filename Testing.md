@@ -53,7 +53,7 @@ To become a requestor, try to render something - add a random Blender or Luxrend
 
 Optionally you can save a task on your disk and load it later.
 
-#### Renderers differences and LuxRender stop conditions
+### Renderers differences and LuxRender stop conditions
 Blender tasks are split in the way that nodes render different parts of the picture. In LuxRender each node renders a whole image in low quality and next the results are blended into a final result. The haltspp parameter tells after how many samples subtask's computation should end, the halttime simply terminates the rendering after a given amount of time. 
 Note that the more subtasks you have in a Lux task the more computational effort will be put in rendering, thus the better quality of the result will be.
 
