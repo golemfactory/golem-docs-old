@@ -1,6 +1,6 @@
 # Installing Golem
 
-1. [Contact us](<mailto:testnet@golemproject.net>) to sign up for tests. You will be sent a link to the Golem package.
+1. [Contact us](<mailto:testnet@golemproject.net>) to sign up for tests. You will be sent a link to the Golem package. Please note that at the moment only Windows and Linux are supported.
 
 2. Install Docker
 
