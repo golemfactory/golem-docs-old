@@ -42,15 +42,23 @@ To become a requestor, try to render something - add a random Blender or Luxrend
    2. Choose appropriate renderer (Blender or LuxRender).
    3. Set path to a .blend or .lxs file in the `Main scene file`. You can click <kbd>...</kbd> to choose a file from your machine. 
    4. If your scene needs some additional data, for instance textures, select the right files or directories after clicking <kbd>Add</kbd>.
-   5. Set `Output format` and `Output file`. You can click <kbd>...</kbd> to define path to a new file on your machine. 
-   6. Experiment with other options (to see more options click <kbd>Show advanced settings</kbd>). Keep in mind that if you set too short timeout then the task won't be finished in time. Generally it's better to set too long timeout than too short. Also, if you set `max price` too low people may not want to render it. Pessimistic cost is calculated as a number of subtasks * subtask timeout (in hours) * price.
-   7. Be careful with enabling compositing (or: don't enable it if you are not sure what you are doing). When you split a frame into several subtasks, some of Blender postprocessing functions can give different results than when applied to a whole image.
-   8. When you're ready click <kbd>Test task</kbd> and wait until the test is finished. Be patient: it can take a while dependending on the scene's complexity. After testing the number of resources can increase by one - it's OK (means the scene file was added to resources list)
-   9. If the test was successful you can click <kbd>Create task</kbd>. 
-   10. Click `Tasks` on the left side of the app, mark the new task and click <kbd>Start task</kbd> there. 
-   11. Wait for the results.
+   5. Choose number of subtasks - this is one of the most important parameters, defining how your task will be split into smaller parts. Checking the `optimize` box will result in splitting into single frames (in case of rendering an animation) or into default number of subtasks (when rendering a still image)
+   6. Set `Output format` and `Output file`. You can click <kbd>...</kbd> to define path to a new file on your machine. 
+   7. Experiment with other options (to see more options click <kbd>Show advanced settings</kbd>). Keep in mind that if you set too short timeout then the task won't be finished in time. Generally it's better to set too long timeout than too short. Also, if you set `max price` too low people may not want to render it. Pessimistic cost is calculated as a number of subtasks * subtask timeout (in hours) * price.
+   8. Be careful with enabling compositing (or: don't enable it if you are not sure what you are doing). When you split a frame into several subtasks, some of Blender postprocessing functions can give different results than when applied to a whole image.
+   9. When you're ready click <kbd>Test task</kbd> and wait until the test is finished. Be patient: it can take a while dependending on the scene's complexity. After testing the number of resources can increase by one - it's OK (means the scene file was added to resources list)
+   10. If the test was successful you can click <kbd>Create task</kbd>. 
+   11. Click `Tasks` on the left side of the app, mark the new task and click <kbd>Start task</kbd> there. 
+   12. Wait for the results.
 
 Optionally you can save a task on your disk and load it later.
+
+### Scenes
+We have prepared a package of [example Blender files](link_to_dropbox). For Lux scenes visit [this site](http://www.luxrender.net/wiki/Show-off_pack) - NOTE: GPU rendering is not supported yet, choose only scenes using CPU mode.
+
+### Reasonable examples:
+1. StylizedLevi scene with resolution 800x600, frames 1 - 20, 20 subtasks
+2. BMW scene in HD (1920x1080), no using frames (still image), 20 subtasks
 
 # What kind of comments do we expect?
 
