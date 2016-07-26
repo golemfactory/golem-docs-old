@@ -53,12 +53,18 @@ To become a requestor, try to render something - add a random Blender or Luxrend
 
 Optionally you can save a task on your disk and load it later.
 
+#### Renderers differences and LuxRender stop conditions
+Blender tasks are split in the way that nodes render different parts of the picture. In LuxRender each node renders a whole image in low quality and next the results are blended into a final result. The haltspp parameter tells after how many samples subtask's computation should end, the halttime simply terminates the rendering after a given amount of time. 
+Note that the more subtasks you have in a Lux task the more computational effort will be put in rendering, thus the better quality of the result will be.
+
 ### Scenes
 We have prepared a package of [example Blender files](link_to_dropbox). For Lux scenes visit [this site](http://www.luxrender.net/wiki/Show-off_pack) - NOTE: GPU rendering is not supported yet, choose only scenes using CPU mode.
 
-### Reasonable examples:
+### Reasonable examples for default timeouts:
 1. StylizedLevi scene with resolution 800x600, frames 1 - 20, 20 subtasks
 2. BMW scene in HD (1920x1080), no using frames (still image), 20 subtasks
+3. LuxTime in 800x600, 10 subtasks, haltspp 5
+
 
 # What kind of comments do we expect?
 
