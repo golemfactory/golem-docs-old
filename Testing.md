@@ -9,7 +9,8 @@ If you don't have public IP then please follow the instruction from [Bitcoin ena
 ## First steps
 After you successfully installed the Golem App, you will be prompted to enter your node name. You can change it later so don't worry much about it, but you have to set it to a non-empty string. We encourage to choose your Slack login, so we will be able to easily identify your node.
 
-Now you should see something similar to img1.
+Now you should see something similar to:
+![alt text](http://golemproject.net/img/golemstartscreenshot.png "Main window")
 
 The icons on the left are the main app menu. Currently you are in a `Tasks` submenu. White area in the center is where your tasks will appear when you add some, on the right there is a bunch of information about a specific task when you select it.
 
