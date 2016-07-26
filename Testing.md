@@ -67,3 +67,5 @@ Optionally you can save a task on your disk and load it later.
 
 # How can you send us your comments? 
 Add a new issue to the repository or write a comment on Slack. Add an annotation "[ERR]", "[UX]" or "[FUNC]" (see description above). If you add information about error, please append as much information as possible, try to add screenshots and put your logs [in the directory](https://drive.google.com/folderview?id=0B8jXV0W-_NcWVFM0RU9XWlI4Q2M&usp=drive_web#list). Check directory description, to see how you should name your files. Your log will be created in your golem directory and named `golem_machinename.log`, 'golem_client.log` and `golem_gui.log`. 
+
+If you need any help please feel free to [contact us](<mailto:testnet@golemproject.net>).
