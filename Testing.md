@@ -58,7 +58,7 @@ Blender tasks are split in the way that nodes render different parts of the pict
 Note that the more subtasks you have in a Lux task the more computational effort will be put in rendering, thus the better quality of the result will be.
 
 ### Scenes
-We have prepared a package of [example Blender files](link_to_dropbox). For Lux scenes visit [this site](http://www.luxrender.net/wiki/Show-off_pack) - NOTE: GPU rendering is not supported yet, choose only scenes using CPU mode.
+We have prepared a package of [example Blender files](https://www.dropbox.com/sh/b6bhcav47komg59/AACLeKqvYRxohwlJxa0w3omja/BlenderScenes.zip?dl=0). For Lux scenes visit [this site](http://www.luxrender.net/wiki/Show-off_pack) - NOTE: GPU rendering is not supported yet, choose only scenes using CPU mode.
 
 ### Reasonable examples for default timeouts:
 1. StylizedLevi scene with resolution 800x600, frames 1 - 20, 20 subtasks
