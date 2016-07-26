@@ -8,7 +8,7 @@
    
    If you are using Windows, choose Docker Toolbox (Docker for Windows hasn't been tested yet). 
    
-   After the installation remember to check if it's working properly by checking version and runnig a container example (you can find out how to this in the installation instruction). 
+   After the installation remember to check if it's working properly by checking version and runnig a container example (you can find out how to do this in the installation instruction). 
 
 3. Download and extract Golem package.  
 
