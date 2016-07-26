@@ -1,14 +1,14 @@
-# Running from package
+# Installing Golem
 
-1. Install Docker
+1. [Contact us](<mailto:testnet@golemproject.net>) to sign up for tests. You will be sent a link to the Golem package.
+
+2. Install Docker
 
    Follow the official Docker installation guide for your operating system: [instruction](https://docs.docker.com/engine/installation/)
    
    After the installation remember to check if it's working properly by checking version and runnig a container example (you can find out how to this in the installation instruction). 
 
-2. Download the latest Golem package for your operating system from [Dropbox](https://www.dropbox.com/s/5t6c3qwarddmymc/golem-win32-0.2.X.zip?dl=0)
-
-3. Extract golem package.  
+3. Download and extract Golem package.  
 
 4. In terminal, go to the package directory and run application. The runner script may do some additional work on the first run. This process should take up to few minutes.
 
