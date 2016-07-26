@@ -11,7 +11,7 @@ After you successfully installed the Golem App, you will be prompted to enter yo
 
 Now you should see something similar to img1.
 
-The icons on the left are the main app menu. Currently you are in a `Task` submenu. White area in the center is where your tasks will appear when you add some, on the right there is a bunch of information about a specific task when you select it.
+The icons on the left are the main app menu. Currently you are in a `Tasks` submenu. White area in the center is where your tasks will appear when you add some, on the right there is a bunch of information about a specific task when you select it.
 
 ## Settings
 Click `Preferences` on the left. The three tabs on the top of the window are different settings groups. Let's start with the `General` tab:
