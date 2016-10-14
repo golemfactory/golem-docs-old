@@ -4,8 +4,8 @@ Golem enables users to buy and sell unused computing resources. This compute tim
 
 # Installation and testing
 
-1. [Installation](Installation.md)
-2. [Testing](Testing.md)
+1. [Installation](https://github.com/imapp-pl/golem/wiki/Installation)
+2. [Testing](https://github.com/imapp-pl/golem/wiki/Testing)
 
 Golem software collects data on your system, hardware and usage. Data is sent to the development team and is used to help in further development of the network. We do not collect any private data.
 
